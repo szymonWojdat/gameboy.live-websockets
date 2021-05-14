@@ -1,5 +1,8 @@
 # Gameboy.Live websockets
 
+*This fork as already been merged into the main [Gameboy.Live repo](https://github.com/HFO4/gameboy.live).*
+---
+
 This is a fork of [Gameboy.Live](https://github.com/HFO4/gameboy.live) that implements a websockets interface for sending static images so that you don't need to reload the website after
 each button press. Full documentation of Gameboy.Live is on its [Github page](https://github.com/HFO4/gameboy.live).
 
